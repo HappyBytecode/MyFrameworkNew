@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--用的是hxyc2018下的app_config-->
+    <!-- 测试环境 -->
+    <!-- debug下的正式环境 -->
+    <!--<string name="app_config_debug_host">api.hexingyueche.com</string>-->
+    <!--<string name="app_config_debug_websocket">api.hexingyueche.com:10020</string>-->
+    <!--重做城际测试地址-->
+    <!--    <string name="app_config_debug_host">192.168.100.206:9001</string>-->
+    <!--    <string name="app_config_debug_websocket">192.168.100.206:10020</string>-->
+    <!--发票作废测试地址-->
+    <!--    <string name="app_config_debug_host">192.168.100.206:9002</string>-->
+    <!--    <string name="app_config_debug_websocket">192.168.100.206:10020</string>-->
+    <!--测试地址-->
+    <!--    <string name="app_config_debug_host">192.168.100.206:9001</string>-->
+    <!--    <string name="app_config_debug_websocket">192.168.100.206:10020</string>-->
+    <!--企业用车测试地址-->
+    <!--    <string name="app_config_debug_host">192.168.100.221:8089</string>-->
+    <!--    <string name="app_config_debug_websocket">192.168.100.206:10020</string>-->
+    <!--外网测试地址-->
+    <!--    <string name="app_config_debug_out_host">112.30.114.29:8081</string>-->
+    <!--    <string name="app_config_debug_out_websocket">112.30.114.29:10021</string>-->
+    <string name="app_config_debug_out_host">112.31.111.155:8081</string>
+    <string name="app_config_debug_out_websocket">112.31.111.155:10021</string>
+    <!--预生产 start-->
+    <string name="app_config_debug_host_huaweiyun">api-pre.hexingyueche.com</string>
+    <string name="app_config_debug_websocket_huaweiyun">121.199.164.53:10020</string>
+    <!--预生产 end-->
+    <!--华为云 start-->
+    <string name="app_config_host_huaweiyun">app.hexingyueche.com</string>
+    <string name="app_config_websocket_huaweiyun">app.hexingyueche.com:10020</string>
+    <!--华为云 end-->
+    <!--测试 start 232:8011 235:8999 192.168.100.235:8999 192.168.100.22:10020-->
+    <string name="app_config_debug_host">192.168.100.232:8011</string>
+    <string name="app_config_debug_websocket">192.168.100.232:10020</string>
+    <!--测试 end-->
+    <!--和行商城支付 start-->
+    <!--    <string name="app_config_debug_host">112.30.114.29:10021</string>-->
+    <!--    <string name="app_config_debug_websocket">192.168.100.227:10020</string>-->
+    <!--正式包服务器地址 start 单节点ip：http://120.26.10.79:8011-->
+    <string name="app_config_host_one">120.26.10.79:8011</string>
+    <string name="app_config_host">api.hexingyueche.com</string>
+    <string name="app_config_websocket">api.hexingyueche.com:10020</string>
+    <!--正式包服务器地址 end-->
+    <!--华为云正式 start-->
+    <!--        <string name="app_config_host">app.hexingyueche.com</string>-->
+    <!--        <string name="app_config_websocket">app.hexingyueche.com:10020</string>-->
+    <!--华为云正式 end-->
+
+    <!--配置正式包是否打印日志, 调试包一定打印日志-->
+
+</resources>

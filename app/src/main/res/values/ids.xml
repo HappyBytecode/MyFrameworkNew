@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Gallery Final-->
+    <item name="adapter_item_tag_key" type="id" />
+    <item name="glide_tag" type="id" />
+    <item name="loading_view" type="id" />
+</resources>

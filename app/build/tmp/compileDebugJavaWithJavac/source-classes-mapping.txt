@@ -1,0 +1,510 @@
+com/hxyc/myframework/config/ConfigRemoteSource_Factory.java
+ com.hxyc.myframework.config.ConfigRemoteSource_Factory
+com/hxyc/myframework/network/RequestBean.java
+ com.hxyc.myframework.network.RequestBean
+com/hxyc/myframework/util/security/DES3.java
+ com.hxyc.myframework.util.security.DES3
+com/hxyc/myframework/common/DaggerAppComponent.java
+ com.hxyc.myframework.common.DaggerAppComponent
+ com.hxyc.myframework.common.DaggerAppComponent$1
+ com.hxyc.myframework.common.DaggerAppComponent$Builder
+androidx/lifecycle/livedata/core/R.java
+ androidx.lifecycle.livedata.core.R
+com/hxyc/myframework/module/actcen/PromoteValuePresenter_MembersInjector.java
+ com.hxyc.myframework.module.actcen.PromoteValuePresenter_MembersInjector
+com/hxyc/myframework/widget/refreshview/PathsDrawable.java
+ com.hxyc.myframework.widget.refreshview.PathsDrawable
+com/scwang/smart/refresh/layout/kernel/R.java
+ com.scwang.smart.refresh.layout.kernel.R
+ com.scwang.smart.refresh.layout.kernel.R$attr
+ com.scwang.smart.refresh.layout.kernel.R$id
+ com.scwang.smart.refresh.layout.kernel.R$string
+ com.scwang.smart.refresh.layout.kernel.R$styleable
+androidx/appcompat/resources/R.java
+ androidx.appcompat.resources.R
+ androidx.appcompat.resources.R$attr
+ androidx.appcompat.resources.R$color
+ androidx.appcompat.resources.R$dimen
+ androidx.appcompat.resources.R$drawable
+ androidx.appcompat.resources.R$id
+ androidx.appcompat.resources.R$integer
+ androidx.appcompat.resources.R$layout
+ androidx.appcompat.resources.R$string
+ androidx.appcompat.resources.R$style
+ androidx.appcompat.resources.R$styleable
+org/litepal/R.java
+ org.litepal.R
+ org.litepal.R$string
+androidx/arch/core/R.java
+ androidx.arch.core.R
+androidx/fragment/R.java
+ androidx.fragment.R
+ androidx.fragment.R$anim
+ androidx.fragment.R$animator
+ androidx.fragment.R$attr
+ androidx.fragment.R$color
+ androidx.fragment.R$dimen
+ androidx.fragment.R$drawable
+ androidx.fragment.R$id
+ androidx.fragment.R$integer
+ androidx.fragment.R$layout
+ androidx.fragment.R$string
+ androidx.fragment.R$style
+ androidx.fragment.R$styleable
+com/hxyc/myframework/module/actcen/DaggerPromoteValueComponent.java
+ com.hxyc.myframework.module.actcen.DaggerPromoteValueComponent
+ com.hxyc.myframework.module.actcen.DaggerPromoteValueComponent$1
+ com.hxyc.myframework.module.actcen.DaggerPromoteValueComponent$Builder
+androidx/savedstate/R.java
+ androidx.savedstate.R
+ androidx.savedstate.R$id
+com/hxyc/myframework/adapter/internal/IHeaderFooter.java
+ com.hxyc.myframework.adapter.internal.IHeaderFooter
+com/hxyc/myframework/BuildConfig.java
+ com.hxyc.myframework.BuildConfig
+com/hxyc/myframework/module/actcen/PromoteValueFragment.java
+ com.hxyc.myframework.module.actcen.PromoteValueFragment
+com/hxyc/myframework/network/RequestError.java
+ com.hxyc.myframework.network.RequestError
+androidx/interpolator/R.java
+ androidx.interpolator.R
+com/hxyc/myframework/util/security/GZIP.java
+ com.hxyc.myframework.util.security.GZIP
+androidx/core/R.java
+ androidx.core.R
+ androidx.core.R$attr
+ androidx.core.R$color
+ androidx.core.R$dimen
+ androidx.core.R$drawable
+ androidx.core.R$id
+ androidx.core.R$integer
+ androidx.core.R$layout
+ androidx.core.R$string
+ androidx.core.R$style
+ androidx.core.R$styleable
+com/artemzin/rxjavaproguardrules/R.java
+ com.artemzin.rxjavaproguardrules.R
+com/hxyc/myframework/api/ApiConfig.java
+ com.hxyc.myframework.api.ApiConfig
+com/hxyc/myframework/widget/HeadView.java
+ com.hxyc.myframework.widget.HeadView
+ com.hxyc.myframework.widget.HeadView$OnLeftClickListener
+ com.hxyc.myframework.widget.HeadView$OnRightClickListener
+com/hxyc/myframework/config/ConfigRepository.java
+ com.hxyc.myframework.config.ConfigRepository
+com/hxyc/myframework/config/ConfigRemoteSource.java
+ com.hxyc.myframework.config.ConfigRemoteSource
+com/hxyc/myframework/module/actcen/PromoteValueAdapter.java
+ com.hxyc.myframework.module.actcen.PromoteValueAdapter
+ com.hxyc.myframework.module.actcen.PromoteValueAdapter$1
+com/hxyc/myframework/common/AppComponent.java
+ com.hxyc.myframework.common.AppComponent
+androidx/multidex/R.java
+ androidx.multidex.R
+com/hxyc/myframework/adapter/internal/ILayoutManager.java
+ com.hxyc.myframework.adapter.internal.ILayoutManager
+com/hxyc/myframework/util/Logger.java
+ com.hxyc.myframework.util.Logger
+com/hxyc/myframework/widget/refreshview/PaintDrawable.java
+ com.hxyc.myframework.widget.refreshview.PaintDrawable
+com/hxyc/myframework/config/ConfigSource.java
+ com.hxyc.myframework.config.ConfigSource
+com/hxyc/myframework/module/actcen/PromoteValueContract.java
+ com.hxyc.myframework.module.actcen.PromoteValueContract
+ com.hxyc.myframework.module.actcen.PromoteValueContract$Presenter
+ com.hxyc.myframework.module.actcen.PromoteValueContract$View
+com/hxyc/myframework/widget/refreshview/ClassicsAbstract.java
+ com.hxyc.myframework.widget.refreshview.ClassicsAbstract
+com/bumptech/glide/R.java
+ com.bumptech.glide.R
+ com.bumptech.glide.R$attr
+ com.bumptech.glide.R$color
+ com.bumptech.glide.R$dimen
+ com.bumptech.glide.R$drawable
+ com.bumptech.glide.R$id
+ com.bumptech.glide.R$integer
+ com.bumptech.glide.R$layout
+ com.bumptech.glide.R$string
+ com.bumptech.glide.R$style
+ com.bumptech.glide.R$styleable
+com/hxyc/myframework/network/Interceptor/ReceivedInterceptor.java
+ com.hxyc.myframework.network.Interceptor.ReceivedInterceptor
+ com.hxyc.myframework.network.Interceptor.ReceivedInterceptor$1
+ com.hxyc.myframework.network.Interceptor.ReceivedInterceptor$2
+ com.hxyc.myframework.network.Interceptor.ReceivedInterceptor$3
+com/hxyc/myframework/base/BasePresenter_MembersInjector.java
+ com.hxyc.myframework.base.BasePresenter_MembersInjector
+com/hxyc/myframework/util/DisplayUtil.java
+ com.hxyc.myframework.util.DisplayUtil
+com/bumptech/glide/gifdecoder/R.java
+ com.bumptech.glide.gifdecoder.R
+com/hxyc/myframework/adapter/internal/ChainSetter.java
+ com.hxyc.myframework.adapter.internal.ChainSetter
+com/hxyc/myframework/module/actcen/PromoteValueActivity.java
+ com.hxyc.myframework.module.actcen.PromoteValueActivity
+androidx/appcompat/R.java
+ androidx.appcompat.R
+ androidx.appcompat.R$anim
+ androidx.appcompat.R$animator
+ androidx.appcompat.R$attr
+ androidx.appcompat.R$bool
+ androidx.appcompat.R$color
+ androidx.appcompat.R$dimen
+ androidx.appcompat.R$drawable
+ androidx.appcompat.R$id
+ androidx.appcompat.R$integer
+ androidx.appcompat.R$interpolator
+ androidx.appcompat.R$layout
+ androidx.appcompat.R$string
+ androidx.appcompat.R$style
+ androidx.appcompat.R$styleable
+androidx/customview/R.java
+ androidx.customview.R
+ androidx.customview.R$attr
+ androidx.customview.R$color
+ androidx.customview.R$dimen
+ androidx.customview.R$drawable
+ androidx.customview.R$id
+ androidx.customview.R$integer
+ androidx.customview.R$layout
+ androidx.customview.R$string
+ androidx.customview.R$style
+ androidx.customview.R$styleable
+com/hxyc/myframework/common/AppModule.java
+ com.hxyc.myframework.common.AppModule
+com/hxyc/myframework/widget/refreshview/DeliveryHeader.java
+ com.hxyc.myframework.widget.refreshview.DeliveryHeader
+androidx/exifinterface/R.java
+ androidx.exifinterface.R
+com/hxyc/myframework/adapter/IMulItemViewType.java
+ com.hxyc.myframework.adapter.IMulItemViewType
+androidx/lifecycle/runtime/R.java
+ androidx.lifecycle.runtime.R
+ androidx.lifecycle.runtime.R$id
+com/hxyc/myframework/common/AppModule_ProvideSPFactory.java
+ com.hxyc.myframework.common.AppModule_ProvideSPFactory
+androidx/tracing/R.java
+ androidx.tracing.R
+com/hxyc/myframework/adapter/OnLongClickListener.java
+ com.hxyc.myframework.adapter.OnLongClickListener
+com/hxyc/myframework/module/actcen/PromoteValueComponent.java
+ com.hxyc.myframework.module.actcen.PromoteValueComponent
+com/hxyc/myframework/bean/PromoteItemEntity.java
+ com.hxyc.myframework.bean.PromoteItemEntity
+ com.hxyc.myframework.bean.PromoteItemEntity$BasicBean
+com/hxyc/myframework/adapter/internal/SuperViewHolder.java
+ com.hxyc.myframework.adapter.internal.SuperViewHolder
+butterknife/R.java
+ butterknife.R
+ butterknife.R$attr
+ butterknife.R$color
+ butterknife.R$dimen
+ butterknife.R$drawable
+ butterknife.R$id
+ butterknife.R$integer
+ butterknife.R$layout
+ butterknife.R$string
+ butterknife.R$style
+ butterknife.R$styleable
+rx/android/R.java
+ rx.android.R
+com/hxyc/myframework/event/BaseEvent.java
+ com.hxyc.myframework.event.BaseEvent
+com/hxyc/myframework/module/actcen/PromoteValuePresenter.java
+ com.hxyc.myframework.module.actcen.PromoteValuePresenter
+ com.hxyc.myframework.module.actcen.PromoteValuePresenter$1
+ com.hxyc.myframework.module.actcen.PromoteValuePresenter$2
+com/hxyc/myframework/base/LibBaseFragment.java
+ com.hxyc.myframework.base.LibBaseFragment
+com/hxyc/myframework/adapter/internal/CRUD.java
+ com.hxyc.myframework.adapter.internal.CRUD
+com/hxyc/myframework/base/LibBaseActivity.java
+ com.hxyc.myframework.base.LibBaseActivity
+dagger/lint/R.java
+ dagger.lint.R
+com/hxyc/myframework/module/actcen/PromoteValueFragment_ViewBinding.java
+ com.hxyc.myframework.module.actcen.PromoteValueFragment_ViewBinding
+ com.hxyc.myframework.module.actcen.PromoteValueFragment_ViewBinding$1
+com/hxyc/myframework/bean/PeelingEntity.java
+ com.hxyc.myframework.bean.PeelingEntity
+com/hxyc/myframework/adapter/internal/BaseSuperAdapter.java
+ com.hxyc.myframework.adapter.internal.BaseSuperAdapter
+ com.hxyc.myframework.adapter.internal.BaseSuperAdapter$1
+ com.hxyc.myframework.adapter.internal.BaseSuperAdapter$2
+androidx/lifecycle/viewmodel/savedstate/R.java
+ androidx.lifecycle.viewmodel.savedstate.R
+ androidx.lifecycle.viewmodel.savedstate.R$id
+androidx/vectordrawable/animated/R.java
+ androidx.vectordrawable.animated.R
+ androidx.vectordrawable.animated.R$attr
+ androidx.vectordrawable.animated.R$color
+ androidx.vectordrawable.animated.R$dimen
+ androidx.vectordrawable.animated.R$drawable
+ androidx.vectordrawable.animated.R$id
+ androidx.vectordrawable.animated.R$integer
+ androidx.vectordrawable.animated.R$layout
+ androidx.vectordrawable.animated.R$string
+ androidx.vectordrawable.animated.R$style
+ androidx.vectordrawable.animated.R$styleable
+com/hxyc/myframework/adapter/OnTouchListener.java
+ com.hxyc.myframework.adapter.OnTouchListener
+com/hxyc/myframework/base/BasePresenter.java
+ com.hxyc.myframework.base.BasePresenter
+com/hxyc/myframework/adapter/SimpleMulItemViewType.java
+ com.hxyc.myframework.adapter.SimpleMulItemViewType
+com/hxyc/myframework/module/actcen/PromoteValueModule.java
+ com.hxyc.myframework.module.actcen.PromoteValueModule
+com/hxyc/myframework/widget/refreshview/ClassicsFooter.java
+ com.hxyc.myframework.widget.refreshview.ClassicsFooter
+ com.hxyc.myframework.widget.refreshview.ClassicsFooter$1
+androidx/vectordrawable/R.java
+ androidx.vectordrawable.R
+ androidx.vectordrawable.R$attr
+ androidx.vectordrawable.R$color
+ androidx.vectordrawable.R$dimen
+ androidx.vectordrawable.R$drawable
+ androidx.vectordrawable.R$id
+ androidx.vectordrawable.R$integer
+ androidx.vectordrawable.R$layout
+ androidx.vectordrawable.R$string
+ androidx.vectordrawable.R$style
+ androidx.vectordrawable.R$styleable
+com/hxyc/myframework/network/RequestParams.java
+ com.hxyc.myframework.network.RequestParams
+ com.hxyc.myframework.network.RequestParams$1
+ com.hxyc.myframework.network.RequestParams$Builder
+com/hxyc/myframework/adapter/internal/IViewBindData.java
+ com.hxyc.myframework.adapter.internal.IViewBindData
+com/hxyc/myframework/network/converter/FastJsonRequestBodyConverter.java
+ com.hxyc.myframework.network.converter.FastJsonRequestBodyConverter
+com/hxyc/myframework/adapter/SuperAdapter.java
+ com.hxyc.myframework.adapter.SuperAdapter
+com/hxyc/myframework/util/ToastUtil.java
+ com.hxyc.myframework.util.ToastUtil
+com/hxyc/myframework/dialog/EnvironmentDialog.java
+ com.hxyc.myframework.dialog.EnvironmentDialog
+ com.hxyc.myframework.dialog.EnvironmentDialog$1
+com/hxyc/myframework/Application_MembersInjector.java
+ com.hxyc.myframework.Application_MembersInjector
+com/hxyc/myframework/R.java
+ com.hxyc.myframework.R
+ com.hxyc.myframework.R$anim
+ com.hxyc.myframework.R$animator
+ com.hxyc.myframework.R$attr
+ com.hxyc.myframework.R$bool
+ com.hxyc.myframework.R$color
+ com.hxyc.myframework.R$dimen
+ com.hxyc.myframework.R$drawable
+ com.hxyc.myframework.R$id
+ com.hxyc.myframework.R$integer
+ com.hxyc.myframework.R$interpolator
+ com.hxyc.myframework.R$layout
+ com.hxyc.myframework.R$mipmap
+ com.hxyc.myframework.R$string
+ com.hxyc.myframework.R$style
+ com.hxyc.myframework.R$styleable
+com/hxyc/myframework/module/actcen/PromoteValueFragment_MembersInjector.java
+ com.hxyc.myframework.module.actcen.PromoteValueFragment_MembersInjector
+com/hxyc/myframework/MainActivity.java
+ com.hxyc.myframework.MainActivity
+com/hxyc/myframework/base/BaseConfig.java
+ com.hxyc.myframework.base.BaseConfig
+androidx/activity/R.java
+ androidx.activity.R
+ androidx.activity.R$attr
+ androidx.activity.R$color
+ androidx.activity.R$dimen
+ androidx.activity.R$drawable
+ androidx.activity.R$id
+ androidx.activity.R$integer
+ androidx.activity.R$layout
+ androidx.activity.R$string
+ androidx.activity.R$style
+ androidx.activity.R$styleable
+androidx/recyclerview/R.java
+ androidx.recyclerview.R
+ androidx.recyclerview.R$attr
+ androidx.recyclerview.R$color
+ androidx.recyclerview.R$dimen
+ androidx.recyclerview.R$drawable
+ androidx.recyclerview.R$id
+ androidx.recyclerview.R$integer
+ androidx.recyclerview.R$layout
+ androidx.recyclerview.R$string
+ androidx.recyclerview.R$style
+ androidx.recyclerview.R$styleable
+androidx/drawerlayout/R.java
+ androidx.drawerlayout.R
+ androidx.drawerlayout.R$attr
+ androidx.drawerlayout.R$color
+ androidx.drawerlayout.R$dimen
+ androidx.drawerlayout.R$drawable
+ androidx.drawerlayout.R$id
+ androidx.drawerlayout.R$integer
+ androidx.drawerlayout.R$layout
+ androidx.drawerlayout.R$string
+ androidx.drawerlayout.R$style
+ androidx.drawerlayout.R$styleable
+androidx/versionedparcelable/R.java
+ androidx.versionedparcelable.R
+com/hxyc/myframework/util/RxUtil.java
+ com.hxyc.myframework.util.RxUtil
+ com.hxyc.myframework.util.RxUtil$1
+ com.hxyc.myframework.util.RxUtil$2
+com/hxyc/myframework/network/converter/FastJsonResponseBodyConverter.java
+ com.hxyc.myframework.network.converter.FastJsonResponseBodyConverter
+com/hxyc/myframework/widget/refreshview/ProgressDrawable.java
+ com.hxyc.myframework.widget.refreshview.ProgressDrawable
+com/hxyc/myframework/config/ConfigRepository_Factory.java
+ com.hxyc.myframework.config.ConfigRepository_Factory
+com/hxyc/myframework/util/security/EncryptionUtil.java
+ com.hxyc.myframework.util.security.EncryptionUtil
+androidx/lifecycle/viewmodel/R.java
+ androidx.lifecycle.viewmodel.R
+ androidx.lifecycle.viewmodel.R$id
+com/hxyc/myframework/util/AppManager.java
+ com.hxyc.myframework.util.AppManager
+com/hxyc/myframework/util/NetUtil.java
+ com.hxyc.myframework.util.NetUtil
+ com.hxyc.myframework.util.NetUtil$NetState
+com/hxyc/myframework/widget/refreshview/ArrowDrawable.java
+ com.hxyc.myframework.widget.refreshview.ArrowDrawable
+com/hxyc/myframework/common/AppModule_ProvideContextFactory.java
+ com.hxyc.myframework.common.AppModule_ProvideContextFactory
+com/hxyc/myframework/util/security/AES.java
+ com.hxyc.myframework.util.security.AES
+com/hxyc/myframework/adapter/OnClickListener.java
+ com.hxyc.myframework.adapter.OnClickListener
+com/hxyc/myframework/util/security/Base64.java
+ com.hxyc.myframework.util.security.Base64
+androidx/cursoradapter/R.java
+ androidx.cursoradapter.R
+androidx/lifecycle/livedata/R.java
+ androidx.lifecycle.livedata.R
+com/hxyc/myframework/base/BaseApplication.java
+ com.hxyc.myframework.base.BaseApplication
+dagger/android/support/R.java
+ dagger.android.support.R
+ dagger.android.support.R$anim
+ dagger.android.support.R$attr
+ dagger.android.support.R$bool
+ dagger.android.support.R$color
+ dagger.android.support.R$dimen
+ dagger.android.support.R$drawable
+ dagger.android.support.R$id
+ dagger.android.support.R$integer
+ dagger.android.support.R$interpolator
+ dagger.android.support.R$layout
+ dagger.android.support.R$string
+ dagger.android.support.R$style
+ dagger.android.support.R$styleable
+com/hxyc/myframework/util/security/DES.java
+ com.hxyc.myframework.util.security.DES
+com/hxyc/myframework/network/Interceptor/RequestInterceptor.java
+ com.hxyc.myframework.network.Interceptor.RequestInterceptor
+ com.hxyc.myframework.network.Interceptor.RequestInterceptor$SortMap
+ com.hxyc.myframework.network.Interceptor.RequestInterceptor$SortMap$1
+com/hxyc/myframework/base/IBaseView.java
+ com.hxyc.myframework.base.IBaseView
+com/hxyc/myframework/network/converter/FastJsonResponseBodyConverter2.java
+ com.hxyc.myframework.network.converter.FastJsonResponseBodyConverter2
+ com.hxyc.myframework.network.converter.FastJsonResponseBodyConverter2$RequestBean
+butterknife/runtime/R.java
+ butterknife.runtime.R
+ butterknife.runtime.R$attr
+ butterknife.runtime.R$color
+ butterknife.runtime.R$dimen
+ butterknife.runtime.R$drawable
+ butterknife.runtime.R$id
+ butterknife.runtime.R$integer
+ butterknife.runtime.R$layout
+ butterknife.runtime.R$string
+ butterknife.runtime.R$style
+ butterknife.runtime.R$styleable
+com/hxyc/myframework/widget/refreshview/ClassicsHeader.java
+ com.hxyc.myframework.widget.refreshview.ClassicsHeader
+ com.hxyc.myframework.widget.refreshview.ClassicsHeader$1
+androidx/loader/R.java
+ androidx.loader.R
+ androidx.loader.R$attr
+ androidx.loader.R$color
+ androidx.loader.R$dimen
+ androidx.loader.R$drawable
+ androidx.loader.R$id
+ androidx.loader.R$integer
+ androidx.loader.R$layout
+ androidx.loader.R$string
+ androidx.loader.R$style
+ androidx.loader.R$styleable
+androidx/annotation/experimental/R.java
+ androidx.annotation.experimental.R
+com/hxyc/myframework/annotation/FragmentScope.java
+ com.hxyc.myframework.annotation.FragmentScope
+com/hxyc/myframework/network/converter/FastJsonConverterFactory.java
+ com.hxyc.myframework.network.converter.FastJsonConverterFactory
+com/hxyc/myframework/db/SP.java
+ com.hxyc.myframework.db.SP
+com/hxyc/myframework/network/RetrofitUtil.java
+ com.hxyc.myframework.network.RetrofitUtil
+ com.hxyc.myframework.network.RetrofitUtil$1
+ com.hxyc.myframework.network.RetrofitUtil$2
+ com.hxyc.myframework.network.RetrofitUtil$3
+androidx/constraintlayout/widget/R.java
+ androidx.constraintlayout.widget.R
+ androidx.constraintlayout.widget.R$anim
+ androidx.constraintlayout.widget.R$attr
+ androidx.constraintlayout.widget.R$bool
+ androidx.constraintlayout.widget.R$color
+ androidx.constraintlayout.widget.R$dimen
+ androidx.constraintlayout.widget.R$drawable
+ androidx.constraintlayout.widget.R$id
+ androidx.constraintlayout.widget.R$integer
+ androidx.constraintlayout.widget.R$interpolator
+ androidx.constraintlayout.widget.R$layout
+ androidx.constraintlayout.widget.R$string
+ androidx.constraintlayout.widget.R$style
+ androidx.constraintlayout.widget.R$styleable
+com/hxyc/myframework/module/actcen/PromoteValueModule_ProvidePromoteValueContractViewFactory.java
+ com.hxyc.myframework.module.actcen.PromoteValueModule_ProvidePromoteValueContractViewFactory
+com/hxyc/myframework/network/converter/FastJsonConverterFactory2.java
+ com.hxyc.myframework.network.converter.FastJsonConverterFactory2
+com/hxyc/myframework/network/RetrofitRequestTool.java
+ com.hxyc.myframework.network.RetrofitRequestTool
+com/hxyc/myframework/api/CommonApi.java
+ com.hxyc.myframework.api.CommonApi
+com/hxyc/myframework/util/CrashHandler.java
+ com.hxyc.myframework.util.CrashHandler
+ com.hxyc.myframework.util.CrashHandler$1
+com/hxyc/myframework/common/AppModule_ProvideCommonApiFactory.java
+ com.hxyc.myframework.common.AppModule_ProvideCommonApiFactory
+com/hxyc/myframework/base/IBasePresenter.java
+ com.hxyc.myframework.base.IBasePresenter
+com/hxyc/myframework/network/entity/LogRecordEntity.java
+ com.hxyc.myframework.network.entity.LogRecordEntity
+androidx/viewpager/R.java
+ androidx.viewpager.R
+ androidx.viewpager.R$attr
+ androidx.viewpager.R$color
+ androidx.viewpager.R$dimen
+ androidx.viewpager.R$drawable
+ androidx.viewpager.R$id
+ androidx.viewpager.R$integer
+ androidx.viewpager.R$layout
+ androidx.viewpager.R$string
+ androidx.viewpager.R$style
+ androidx.viewpager.R$styleable
+com/hxyc/myframework/module/actcen/PromoteValuePresenter_Factory.java
+ com.hxyc.myframework.module.actcen.PromoteValuePresenter_Factory
+dagger/android/R.java
+ dagger.android.R
+com/hxyc/myframework/Application.java
+ com.hxyc.myframework.Application
+ com.hxyc.myframework.Application$1
+ com.hxyc.myframework.Application$2
+com/hxyc/myframework/event/TestEvent.java
+ com.hxyc.myframework.event.TestEvent
+com/hxyc/myframework/widget/refreshview/PathParser.java
+ com.hxyc.myframework.widget.refreshview.PathParser
+ com.hxyc.myframework.widget.refreshview.PathParser$1
+ com.hxyc.myframework.widget.refreshview.PathParser$ExtractFloatResult
+ com.hxyc.myframework.widget.refreshview.PathParser$PathDataNode
